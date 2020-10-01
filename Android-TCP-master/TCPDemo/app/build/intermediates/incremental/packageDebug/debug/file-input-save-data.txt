@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Sep 13 19:44:24 GMT+08:00 2020
+0.baseType=DIRECTORY
+0.base=D\:\\Android Project\\Android-TCP-master\\TCPDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+0.path=classes.dex
+0.set=DEX
+count=1

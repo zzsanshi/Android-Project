@@ -1,0 +1,4 @@
+#Mon Sep 14 10:49:00 GMT+08:00 2020
+base.0=D\:\\Android Project\\Android-TCP-master\\TCPDemo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
